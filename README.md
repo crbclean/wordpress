@@ -40,10 +40,3 @@
 10. if on virtualhost Set port redirection 8080 -> 80 on virtual host 8443 -> 443
 
 This is needed so wordpress can upload content of plugins.
-
-
-
-
-
-
-
