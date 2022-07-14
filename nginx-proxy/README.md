@@ -12,3 +12,8 @@ Default Admin User:
 
 Email:    admin@example.com
 Password: changeme
+
+
+proxy site:
+
+workflow.crbclean.com 34.236.121.12 port 8080
